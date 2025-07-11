@@ -54,7 +54,7 @@ These improvements are Necessary for a robust model which will be covered in the
 
 ---
 
-## 💡 How to Run
+## 💡 How to Clone
 
 1. Clone the repository:
    ```bash
