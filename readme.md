@@ -138,9 +138,3 @@ I’m actively working toward building robust, end-to-end ML systems and contrib
 - [ ] Transfer Learning & Deployment
 
 Stay tuned for updates as I continue this journey! Contributions, feedback, and collaborations are always welcome. 🙌
-
----
-
-## 📄 License
-
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
