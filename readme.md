@@ -50,7 +50,7 @@ To enhance this foundational project, the following features will be added:
 - 🔲 Provide error analysis with plots
 - 🔲 Implement a validation split and metric tracking
 
-These improvements are Necessary for a robust and production-ready model which will be covered in the next project.
+These improvements are Necessary for a robust model which will be covered in the next project.
 
 ---
 
